@@ -33,6 +33,7 @@ DSAC\* requires the following python packages, and we tested it with the package
 pytorch (1.6.0)
 opencv (3.4.2)
 scikit-image (0.16.2)
+tifffile (2020.2.16)
 ```
 **Note:** The code does not support OpenCV 4.x at the moment.
 
